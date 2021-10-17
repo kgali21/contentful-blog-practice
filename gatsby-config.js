@@ -139,7 +139,6 @@ module.exports = {
         spaceId: 'eq2qennm9dxa',
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
       }
-    },
-    '@contentful/rich-text-react-renderer'
+    }
   ],
 }
