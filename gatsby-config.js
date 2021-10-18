@@ -6,15 +6,15 @@ if (process.env.NODE_ENV !== 'production') {
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby + Contentful Tutorial`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kamran Ali`,
+      summary: `portland native. all around cool guy.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `gatsby tutorial practice`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kamkamran`,
     },
   },
   plugins: [
